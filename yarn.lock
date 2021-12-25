@@ -64,10 +64,10 @@
     radash "^1.1.0"
     yup "^0.32.11"
 
-"@exobase/lambda@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@exobase/lambda/-/lambda-0.0.4.tgz#7c586cb99c6e4b0fccafe234f984cda68f29cb53"
-  integrity sha512-BzYgEkSIXS5SuUjsHT4/D6dTgKlurKGLD0AJ3JMnAIJrz3HsuS4i9HX+kueti/YyhLo5Up2skl67lezz3a2xjw==
+"@exobase/lambda@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@exobase/lambda/-/lambda-0.0.5.tgz#414c68b81f8dd91661fb55973de2f3a846a01451"
+  integrity sha512-v7651z9QvxELMxKwvcZSpIZRP3fhJRcBoynkLL0p8nhDsK3QlD9py4m/anVRwHXaUaorW1/QGgp4dweA0GIKKw==
   dependencies:
     "@exobase/core" "^0.0.4"
     radash "^1.1.0"
